@@ -2,8 +2,9 @@ To create a more complete JSON parser with SQL-like functionalities in JavaScrip
 common SQL operations such as `where`, `select`, `orderBy`, `groupBy`, `limit`, `join`, and aggregation functions 
 like `count`, `sum`, `avg`, etc. Below is a more comprehensive implementation:
 
-- [code](./code.js)
-- [usage](./example_use.js)
+- [code](./code.js) "js"
+- [usage](./example_use.js) "js"
+- [full detailed in python](./python.py) "py"
 
 ### Key Features:
 1. **`where(condition)`**: Filters data based on a condition.
