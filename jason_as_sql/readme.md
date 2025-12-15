@@ -17,5 +17,5 @@ like `count`, `sum`, `avg`, etc. Below is a more comprehensive implementation:
 8. **`sum(field)`**: Calculates the sum of a field.
 9. **`avg(field)`**: Calculates the average of a field.
 
-This implementation provides a flexible and powerful way to query and manipulate JSON data in JavaScript, similar to SQL.\
+This implementation provides a flexible and powerful way to query and manipulate JSON data in JavaScript/Python, similar to SQL.\
 Everyone can further extend it to support more complex operations as needed! :)
