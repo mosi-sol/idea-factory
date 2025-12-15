@@ -12,11 +12,11 @@ It combines the flexibility of JSON with the efficiency of binary encoding, addi
 and support for **batch/stream processing**.
 
 ### **Key Features**
-✅ **Binary JSON**: Smaller and faster than text JSON (using MessagePack).
-✅ **Schema Validation**: Enforce data structure with JSON Schema.
-✅ **Security**: AES-256 encryption and HMAC signing.
-✅ **Batch & Streaming**: Optimized for both small and large datasets.
-✅ **Modular**: Plug-in compressors, encryptors, and storage backends.
+✅ **Binary JSON**: Smaller and faster than text JSON (using MessagePack).\
+✅ **Schema Validation**: Enforce data structure with JSON Schema.\
+✅ **Security**: AES-256 encryption and HMAC signing.\
+✅ **Batch & Streaming**: Optimized for both small and large datasets.\
+✅ **Modular**: Plug-in compressors, encryptors, and storage backends.\
 ✅ **Self-Describing**: Embeds metadata (schema, timestamp, compression).
 
 ---
