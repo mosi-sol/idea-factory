@@ -357,5 +357,5 @@ A: Use the `BinJSON` class as a drop-in replacement for `json.dumps()`/`json.loa
 - **GitHub Issues**: [/idea-factory/binjson/issues](https://github.com/mosi-sol/idea-factory/issues)
 
 ---
-**© 2025 BinJSON Contributors**
+**© 2025 BinJSON Contributors**\
 *Documentation generated on Dec 15, 2025.*
