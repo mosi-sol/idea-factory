@@ -3,7 +3,7 @@ common SQL operations such as `where`, `select`, `orderBy`, `groupBy`, `limit`, 
 like `count`, `sum`, `avg`, etc. Below is a more comprehensive implementation:
 
 - [code](./code.js)
-- [usage](./example.js)
+- [usage](./example_use.js)
 
 ### Key Features:
 1. **`where(condition)`**: Filters data based on a condition.
