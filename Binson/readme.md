@@ -4,6 +4,10 @@
 - setup.py: For package installation.
 - example.py: Demonstrates usage.
 
+Js Edition:
+- [mini](./js-edition-mini.md)
+- [full](./js-edition-extend.md)
+
 ---
 
 ## **1. Overview**
