@@ -37,3 +37,33 @@ const ageSum = query.sum('age');
 const ageAvg = query.avg('age');
 console.log("Sum of ages:", ageSum);
 console.log("Average age:", ageAvg);
+
+/*
+Example Outputs:
+
+Filtered and ordered users:
+json
+Copy
+
+[
+  { id: 3, name: "Charlie", age: 35 },
+  { id: 2, name: "Bob", age: 30 }
+]
+
+
+Joined data:
+json
+Copy
+
+[
+  { id: 1, name: "Alice", age: 25, role: "admin", userId: 1, orderId: 101, amount: 100 },
+  { id: 1, name: "Alice", age: 25, role: "admin", userId: 1, orderId: 104, amount: 300 },
+  { id: 2, name: "Bob", age: 30, role: "user", userId: 2, orderId: 102, amount: 200 },
+  { id: 3, name: "Charlie", age: 35, role: "admin", userId: 3, orderId: 103, amount: 150 }
+]
+
+
+Sum of ages: 85
+Average age: 31.666...
+
+*/
